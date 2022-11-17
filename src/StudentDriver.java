@@ -3,7 +3,7 @@ public class StudentDriver
         public static void main (String[] args)
         {
             GoodStudent alanTuring = new GoodStudent(3.56, "Alan", "Turing", 191254, true);
-            GoodStudent florenceNightingale = new GoodStudent(3.89, "Florence", "Nightingale", 182010,false);
+            GoodStudent florenceNightingale = new GoodStudent(3.89, "Florence", "Nightingale", 182010, false);
             GoodStudent graceHopper = new GoodStudent(3.99, "Grace", "Hopper", 190692, true);
 
             //toString Alan output
